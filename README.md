@@ -23,30 +23,30 @@ This is a Python script that sends and receives ICMP (ping) packets using the Sc
 
 ## Installation
 
-1. **Clone the Repository**:
+1. Clone the Repository**:
 
    Clone the GitHub repository to your local machine:
 
    git clone https://github.com/Hussein-Ibrahim043/ICMP_Packet_Sender.git
 
-2. **Navigate to the project directory:
+2. Navigate to the project directory:
 
    cd ICMP_Packet_Sender
 
-3. **Install the required dependencies:
+3. Install the required dependencies:
 
    pip install -r requirements.txt
 
 ---
 
 ## 🚀 How to Use
-1. **Run the Python Script:
+1. Run the Python Script:
    Launch the script from the terminal:
      python ICMP_packet_sender.py
-2. **Provide IP Addresses:
+2. Provide IP Addresses:
    - You’ll be prompted to enter the Source IP and Destination IP.
 - The script will send an ICMP packet from the source to the destination and log the results.
-3. **Sample Output:
+3. Sample Output:
   After you input the IP addresses, the script will:
     - Send the ICMP packet.
     - Capture and log the response (if received).
