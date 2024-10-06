@@ -1,0 +1,5 @@
+# Requirements for ICMP Packet Sender Project
+
+# Python 3.x is required, but doesn't need to be explicitly listed.
+# Scapy library for network packet manipulation
+scapy==2.4.5
